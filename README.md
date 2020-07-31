@@ -28,7 +28,7 @@ We will need two files choices.js and XO_game.js forJavascript. choices.JS is wh
 
 **Known as Minimax algorithm that is widely and successfully used across the fields like Artificial Intelligence, Economics, Game Theory, Statistics**
 
-## Minimax: Minimax is a recursive algorithm which is used to choose an optimal move for a player assuming that the opponent is also playing optimally. As its name suggests, its goal is to minimize the maximum loss.(minimizing the loss considering worst case scenario).Algorithm as a representation of the human thought exploring all the different moves taken by the exponent.
+##### Minimax: Minimax is a recursive algorithm which is used to choose an optimal move for a player assuming that the opponent is also playing optimally. As its name suggests, its goal is to minimize the maximum loss.(minimizing the loss considering worst case scenario).Algorithm as a representation of the human thought exploring all the different moves taken by the exponent.
 
 
 ## References:
