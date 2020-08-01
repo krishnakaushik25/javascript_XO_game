@@ -32,7 +32,7 @@ We will need two files choices.js and XO_game.js forJavascript. choices.JS is wh
 
 
 ## References:
-[allen-kim medium article](https://medium.com/allenhwkim/how-to-build-a-carousel-in-pure-javascript-98d758a18811),[W3-schools of slideshow](https://www.w3schools.com/howto/howto_js_slideshow.asp)
+[allen-kim medium article](https://medium.com/allenhwkim/how-to-build-a-carousel-in-pure-javascript-98d758a18811),[Slideshow by W3-schools](https://www.w3schools.com/howto/howto_js_slideshow.asp)
 
 
 ## Support 
